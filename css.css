@@ -1,0 +1,111 @@
+body {
+	background-color: Aquamarine ;
+	font-family: "Arial"; 
+}
+
+.home{
+	background-color: #ffb6c1;
+	background-image:url(https://www.europages.com/filestore/opt/product/25/fe/product_89f118a8.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.europa{
+	background-color: powderblue;
+	font-family: cursive;
+
+}
+
+.amerika{
+	background-color: #ffffb3;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/N%26SAmerica-pol.jpg/230px-N%26SAmerica-pol.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: courier new;
+}
+
+.afrika{
+	background-color: #e6ac00;
+	background-image:url(https://www.krugerpark-afrika-wildlife.nl/wp-content/uploads/2012/08/Afrika-bevolkingkaartmapAfrica-PopulationCIAEgypteZuid-AfrikaMarokkoTunesieNigeriaSomalieKeniaTanzaniasafarihotelsweer-300x292.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: calibri;
+	font-size: 20px;
+}
+
+.oceanie{
+	background-color:  #ff8533;
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Map_of_Oceania_%28nl%29.png/600px-Map_of_Oceania_%28nl%29.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.site{
+	background-color: #6699ff;
+	background-image:url(https://tokyo.nl/wp-content/uploads/2014/09/azie-landkaart.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#container {
+	background-color: white;
+	margin: 0 auto;
+	width: 800px;
+}
+
+#header {
+	font-size: 30px;
+	color: #1188cc;
+	background-color: white;
+	font-family: cursive;
+
+}
+
+#header a{
+	color: black;
+}
+
+#menu {
+	background-color: black;	
+	font-size: 12px;
+	text-decoration: cursive;
+
+
+}
+
+#content{
+	height: 700px;
+}
+
+.menuitem a{
+	font-style: Courier New;
+}
+
+.menuitem a:hover{
+ background-color: #1188cc;	
+}
+
+.topmenuitem{
+	color: #fff;
+}
+
+h1 {
+	text-decoration: bold;
+}
+
+h1:hover{
+	text-decoration: none;
+}
+
+#footer a {
+	color: black;
+}
+
+#menu a{
+	color: white;
+}
