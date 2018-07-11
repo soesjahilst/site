@@ -84,6 +84,7 @@ body {
 
 .menuitem a{
 	font-style: Courier New;
+	text-decoration: none;
 }
 
 .menuitem a:hover{
