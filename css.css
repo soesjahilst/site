@@ -39,7 +39,8 @@ body {
 #container {
 	background-color: white;
 	margin: 0 auto;
-	width: 800px;
+	width: 200px;
+	height: 500px;
 }
 
 #header {
