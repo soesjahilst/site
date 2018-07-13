@@ -6,7 +6,6 @@ body {
 
 .home{
 	background-color: #ffb6c1;
-	background-image:url(https://www.europages.com/filestore/opt/product/25/fe/product_89f118a8.jpg);
 	background-repeat:no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -20,7 +19,6 @@ body {
 
 .amerika{
 	background-color: #ffffb3;
-	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/N%26SAmerica-pol.jpg/230px-N%26SAmerica-pol.jpg);
 	background-repeat:no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -29,7 +27,6 @@ body {
 
 .afrika{
 	background-color: #e6ac00;
-	background-image:url(https://www.krugerpark-afrika-wildlife.nl/wp-content/uploads/2012/08/Afrika-bevolkingkaartmapAfrica-PopulationCIAEgypteZuid-AfrikaMarokkoTunesieNigeriaSomalieKeniaTanzaniasafarihotelsweer-300x292.jpg);
 	background-repeat:no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -39,7 +36,6 @@ body {
 
 .oceanie{
 	background-color:  #ff8533;
-	background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Map_of_Oceania_%28nl%29.png/600px-Map_of_Oceania_%28nl%29.jpg);
 	background-repeat:no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -47,7 +43,6 @@ body {
 
 .site{
 	background-color: #6699ff;
-	background-image:url(https://tokyo.nl/wp-content/uploads/2014/09/azie-landkaart.jpg);
 	background-repeat:no-repeat;
 	background-position: center;
 	background-attachment: fixed;
