@@ -10,13 +10,11 @@ body {
 	background-repeat:no-repeat;
 	background-position: center;
 	background-attachment: fixed;
-	color: black;
 }
 
 .europa{
 	background-color: powderblue;
 	font-family: cursive;
-	color: black;
 
 }
 
@@ -27,7 +25,6 @@ body {
 	background-position: center;
 	background-attachment: fixed;
 	font-family: courier new;
-	color: black;
 }
 
 .afrika{
@@ -120,5 +117,4 @@ h1:hover{
 	color: white;
 	height: 500px;
 	width: 200:
-	background-attachment: fixed;
 }
