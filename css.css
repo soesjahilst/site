@@ -6,9 +6,6 @@ body {
 
 .home{
 	background-color: #ffb6c1;
-	background-repeat:no-repeat;
-	background-position: center;
-	background-attachment: fixed;
 }
 
 .europa{
@@ -27,25 +24,16 @@ body {
 
 .afrika{
 	background-color: #e6ac00;
-	background-repeat:no-repeat;
-	background-position: center;
-	background-attachment: fixed;
 	font-family: calibri;
 	font-size: 20px;
 }
 
 .oceanie{
 	background-color:  #ff8533;
-	background-repeat:no-repeat;
-	background-position: center;
-	background-attachment: fixed;
 }
 
 .site{
 	background-color: #6699ff;
-	background-repeat:no-repeat;
-	background-position: center;
-	background-attachment: fixed;
 }
 
 #container {
@@ -108,8 +96,3 @@ h1:hover{
 	color: white;
 }
 
-#container {
-	color: white;
-	height: 500px;
-	width: 200:
-}
